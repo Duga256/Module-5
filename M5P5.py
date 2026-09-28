@@ -1,5 +1,3 @@
-# Kirill M5P5 09/15/2026
-
 # Entering last name, number if dependents, and gross income
 last_name = input("Enter your last name: ")
 num_depend = int(input("Enter number of dependents: "))
