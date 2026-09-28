@@ -1,5 +1,3 @@
-# Kirill M5P4 09/15/2026
-
 # Asking user to enter their appliance and it cost
 name_appliance = input("Enter name of your appliance: ")
 cost_appliance = float(input("Enter cost of your appliance: "))
