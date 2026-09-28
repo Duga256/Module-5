@@ -1,5 +1,3 @@
-# Kirill M5P1 09/15/2026
-
 # Entering a quantity of item 
 quantity = float(input("Enter quantity of item: "))
 
