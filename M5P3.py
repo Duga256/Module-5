@@ -1,5 +1,3 @@
-# Kirill M5P3.py 09/15/2026
-
 # Entering amount of books and cost
 books = int(input("Enter amount of books you ordered: "))
 cost_books = float(input("Enter cost per book: "))
