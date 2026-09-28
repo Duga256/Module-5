@@ -1,5 +1,3 @@
-# Kirill M5P2 09/15/2026
-
 # Entering an iteam and a quantity
 iteam = (input("Enter a name of the item (A or B): "))
 quantity = int(input("Enter a quantity of the item: "))
